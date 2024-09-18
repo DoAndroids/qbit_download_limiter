@@ -32,8 +32,6 @@ IF NOT EXIST "%HOME_DIR%\PythonScripts\qbit_traffic_check.py" (
 )
 python "%HOME_DIR%\PythonScripts\qbit_traffic_check.py"
 
-pause
-
 REM Deactivate the virtual environment
 echo Deactivating virtual environment...
 deactivate
