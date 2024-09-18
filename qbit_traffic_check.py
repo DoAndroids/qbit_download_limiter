@@ -3,8 +3,7 @@ import os
 from datetime import datetime
 
 # qBittorrent Web UI details
-#QB_HOST = 'http://localhost:8080'  # Change the port as necessary
-QB_HOST = 'http://qnapnas:25000'
+QB_HOST = 'http://localhost:8080'  # Change the port as necessary
 QB_USERNAME = 'admin'              # Change to your qBittorrent username
 QB_PASSWORD = 'password'           # Change to your qBittorrent password
 
